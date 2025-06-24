@@ -4,7 +4,7 @@
 This project analyzes a large dataset of used vehicles to understand the key factors influencing car prices. By building a predictive model, we aim to provide a dealership with a data-driven tool to guide their pricing strategy and inventory acquisition, translating complex data into actionable business insights.
 
 ### Link to Jupyter Notebook
-*   [Link to the complete analysis in the Jupyter Notebook]()
+*   [Practical_Application_2.ipynb](https://github.com/phanik29/PA11_1/blob/main/Practical_Application_2.ipynb)
 
 ---
 
