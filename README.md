@@ -41,6 +41,7 @@ A rigorous modeling process was followed to ensure the results were robust and r
         - fuel other type sedan
         - cylinder types coupe 6 and 4
         - gas type pickup trucks
+ 4. **Future Improvements:**  Every month the model has to be updated.
 
 ---
 
